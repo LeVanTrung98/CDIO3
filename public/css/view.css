@@ -1,0 +1,15 @@
+*{
+	padding:0;
+	margin: 0;
+}
+/*#right #content1 .top4{
+	width: 100%;
+	display: flex;
+	flex-direction: column;
+}*/
+#right #content1 .bottom {
+	margin-top: 30px;
+}
+#right #content1 .bottom small{
+	font-size: 20px;
+}
